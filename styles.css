@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(207, 207, 207) ;
+    margin: 0%;
+    padding: 0%;
+    font-family: "Roboto Condensed", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    }
+
+.title { 
+    background: white;
+    padding-bottom: 1px;
+    overflow: hidden;
+    margin-bottom: 60px;
+}
+h1 {
+    margin: auto;
+    width: 370px;
+}
+.first {
+    width: 410px;
+    margin: auto;
+}
+article { 
+    border: 1px solid rgb(207, 207, 207) ;
+    margin-bottom: 60px;
+    border-radius: 5px;
+    background: white;
+}
+article > header {
+    padding: 0px 15px;
+}
+.title2 {
+    overflow: hidden;
+}
+.content1 h2 {
+    font-size: 16px;
+}
+.title2 > div {
+    float: left;
+    width: 180px;
+}
+.fecha {
+    text-align: right;
+    color: gray;
+}
+.imagen { 
+    margin-bottom: 1px solid rgb(207, 207, 207);
+    margin-top: 1px solid rgb(207, 207, 207);
+}
+img {
+    max-width: 408.2px;
+}
+.coment {
+    padding: 0px 15px;
+    font-size: 14px;
+}
+    
